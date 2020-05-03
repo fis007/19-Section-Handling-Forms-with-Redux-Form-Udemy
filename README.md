@@ -68,3 +68,4 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/de
 This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
 # 16-Section-Navigation-with-React-Router-Modern-React-with-Redux-UDEMY
 # 17-Section-Handling-Authentication-with-React-UDEMY-STREAM-AUTH
+# fis007-17-Section-Handling-Authentication-with-React-UDEMY-STREAM-AUTH
